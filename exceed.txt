@@ -1,0 +1,39 @@
+Problem
+• In toilet is hard way to acess, imagine if patient or elderly people is in that.
+  They can't helps themself.and They want someone to help but
+  they don't has a force.The acciennt maybe occurs and It is to late for help.
+• Or in present you maybe ever saw about people smoking in the restroom.gas methane and has a reaction
+with carbon dioxide and bombs or accident will occurs.
+• Some toilet has a problem and people want to call the maintainace to fix.
+
+Solution
+• In our project 'Innovative Toilet Helper' It has sound detecter,when people in
+restroom shout or call for help It will send massage to Website that is a center
+And the callCenter will send people to help them.
+• When someone is smoking 'Innovative Toilet Helper' has a gas detecter It will has a sound for
+  warning 'This is dangerous please stop smoking'.
+• When the toilet has some problem 'Innovative Toilet Helper' has a button for calling a
+ maintainace. The CallCenter will send the maintainace for fixing.
+• It has a button for calling the janitor.
+• And last one when people don't has a force for shout It has button for emergency call.
+
+The Feature
+
+• First button can call maid .If you want tissue or other help.
+• Second button can call mechanic .If you want to fix something.
+• Third button can call hospital .If you have emergency.
+• Can shout to this machine to call someone help you.If you have emergency and cannot touch the machine
+• We have gas detector to detect disguised gas
+• the webside will record every problem to make statistic for analysis for fixing the problem in the furture.
+• when people send the request the website will has a sound for notify
+
+
+What make a Hero?
+We think anyone can be hero if they want to help other people.Our project too
+It is create for helping everyone that in toilet a man  patient or elderly people.
+if they has a problem or need some help.our project will send the massage to website and will send the assitance to help every one.and let to make a toilet to be safe and better place for everyone together.
+
+
+I think a hero is any person really intent on making
+this a better place for all people
+ -- MAYA ANGELOU--
